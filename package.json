@@ -1,10 +1,14 @@
 {
-    "name": "kareemstudio",
-    "version": "0.0.1",
-    "description": "Web Project to Showcase the Photos of Models and related to them.",
-    "repository": {
-        "type": "git",
-        "url": "?.git"
-    },
-    "author": "Shaik Sharif"
+  "name": "kareemstudio",
+  "version": "0.0.1",
+  "description": "Web Project to Showcase the Photos of Models and related to them.",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Shaik Sharif",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
