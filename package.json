@@ -1,0 +1,10 @@
+{
+    "name": "kareemstudio",
+    "version": "0.0.1",
+    "description": "Web Project to Showcase the Photos of Models and related to them.",
+    "repository": {
+        "type": "git",
+        "url": "?.git"
+    },
+    "author": "Shaik Sharif"
+}
